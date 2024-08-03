@@ -1,6 +1,6 @@
 # TO-DO-LIST-APP-with-javascript
 
-This is a simple To-Do List application built using HTML, CSS, and JavaScript. The application allows users to add, edit, and delete tasks, helping them manage their tasks efficiently.
+This is a simple To-Do List application built using HTML, CSS, and JavaScript. 
 
 ## Features
 
@@ -16,5 +16,10 @@ To run the application locally, follow these steps:
 ```bash 
 git clone https://github.com/Rediet-W/TO-DO-LIST-APP-with-javascript.git  
 
-2. Navigate to TO-DO-LIST-APP-with-javascript 
-3. open index.html
+cd TO-DO-LIST-APP-with-javascript 
+
+open index.html
+
+
+![Screenshot](images/image1.png)
+![Screenshot](images/image.png)
