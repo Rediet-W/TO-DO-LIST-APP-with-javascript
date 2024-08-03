@@ -18,7 +18,8 @@ git clone https://github.com/Rediet-W/TO-DO-LIST-APP-with-javascript.git
 
 cd TO-DO-LIST-APP-with-javascript 
 
-open index.html```
+open index.html
+```
 
 
 ![Screenshot](images/image1.png)
