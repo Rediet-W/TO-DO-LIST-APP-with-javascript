@@ -18,8 +18,10 @@ git clone https://github.com/Rediet-W/TO-DO-LIST-APP-with-javascript.git
 
 cd TO-DO-LIST-APP-with-javascript 
 
-open index.html
+open index.html```
 
 
 ![Screenshot](images/image1.png)
+initial page with no task added
 ![Screenshot](images/image.png)
+tasks added and with edit buttons and checkbox to mark/delete a task
