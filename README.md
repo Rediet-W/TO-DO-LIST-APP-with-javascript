@@ -16,5 +16,5 @@ To run the application locally, follow these steps:
 ```bash 
 git clone https://github.com/Rediet-W/TO-DO-LIST-APP-with-javascript.git  
 
-2. Navigate to TO-DO-LIST-APP-with-javascript 
-3. open index.html
+cd TO-DO-LIST-APP-with-javascript 
+open index.html
